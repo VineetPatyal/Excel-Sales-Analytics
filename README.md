@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @VineetPatyal
-- 👀 I’m interested in Data Analytics Process
-- 🌱 I’m currently learning SQL,Python, Power BI 
-- 📫 Contact me @ 9667107756 or Mail ID vinitpatyal@gmail.com
-
-<!---
 ## Sales Report :
 
 
